@@ -12,7 +12,7 @@ allows the program to halt execution while these are inputted.
 The code from Frank Andrade course on Udemy  as been used as required.
 
 The file selTOscrapy:
-he purpose of this code is to scrape a personal Audible library.
+The purpose of this code is to scrape a personal Audible library.
 	The first part uses selenium to control the pages.
 	The initial page is accessed and the logon screen is chosen.
 	There is an intentionally long  pause to allow the input of credentials.
